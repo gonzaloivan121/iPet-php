@@ -63,7 +63,8 @@ Muchas gracias.
 
 ## Tecnologías Utilizadas
 
-PHP7 (Modelo MVC), HTML5, CSS3, Heroku, MySQL, JQuery (JavaScript), Firebase Storage...
+PHP7 (Modelo MVC), HTML5, CSS3, Heroku, MySQL, JQuery (JavaScript), AJAX, Firebase Storage...
+
 Sorprendentemente, 0% de Boostrap ha sido utilizado.
 
 ## Demostración de funcionamiento
