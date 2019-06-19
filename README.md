@@ -61,6 +61,11 @@ Pull Requests abiertos.
 Siéntete libre de actualizar cualquier punto de la aplicación que veas necesario. Yo lo revisaré y lo aceptaré o no.
 Muchas gracias.
 
+## Tecnologías Utilizadas
+
+PHP7 (Modelo MVC), HTML5, CSS3, Heroku, MySQL, JQuery (JavaScript), Firebase Storage...
+Sorprendentemente, 0% de Boostrap ha sido utilizado.
+
 ## Demostración de funcionamiento
 [Demo](http://ipet-php.herokuapp.com)
 
