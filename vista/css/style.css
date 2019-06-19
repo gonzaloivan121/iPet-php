@@ -488,7 +488,7 @@ body.match .container .messages-chat-container.active {
 body.match .container .info-container {
   width: 30%;
   padding: 2% 0% 2% 0%;
-  height: calc(100vh - 100px);
+  height: calc(100% - 88px);
   background: linear-gradient(#96a6b4, #8d959c);
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
